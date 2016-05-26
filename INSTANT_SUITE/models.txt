@@ -1,0 +1,3 @@
+encapsulation is a mechanism of wrapping the data and the methods together as as single unit.
+encapsulation is the packing of data and functions into a single component
+concept of wrapping a variable and its methods as one single object.

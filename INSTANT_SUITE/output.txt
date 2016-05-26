@@ -1,0 +1,2 @@
+C:\Python34\python.exe C:\wamp\www\INSTANT_SUITE\application\models\lsa.py models.txt 3
+52.9248733842

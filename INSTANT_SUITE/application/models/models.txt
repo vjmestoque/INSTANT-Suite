@@ -1,0 +1,3 @@
+abstraction is used to hide certain details and only show the essential features of the object.
+abstraction deals with the outside view of an object or the interface.
+abstraction is about the interface and hiding of important details.
